@@ -87,6 +87,7 @@ notified, then download the new zip — or run `git pull` if you cloned.
 |---|---|
 | [`SKILL.md`](SKILL.md) | the skill's entry point |
 | [`references/`](references) | the API reference, one file per API section |
+| [`docs/en/`](docs/en) · [`docs/ru/`](docs/ru) | the API documentation in English and Russian, Markdown sources |
 
 The reference is built from the public API documentation at <https://docs.altercpa.top/en/api/>.
 

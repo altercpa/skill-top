@@ -87,6 +87,7 @@ https://my.altercpa.top/api/{area}/{func}.json?id={key}
 |---|---|
 | [`SKILL.md`](SKILL.md) | точка входа скилла |
 | [`references/`](references) | справочник по API, по файлу на раздел API |
+| [`docs/en/`](docs/en) · [`docs/ru/`](docs/ru) | документация по API на английском и русском: исходники в Markdown |
 
 Справочник собран из публичной документации API (на английском) на <https://docs.altercpa.top/en/api/>.
 
